@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Khuong Mai.
+### 👋 Hi there, I'm Justin Mai.
 
 <!--
 **khuongngoc1518/khuongngoc1518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
