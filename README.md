@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Khuong Mai.
+<h1>👋 Hi there, I'm Khuong Mai.</h1>
 
 <!--
 **khuongmai-dev/khuongmai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
