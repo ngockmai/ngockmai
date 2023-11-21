@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </div>
 
 <h3>Other links</h3>
-- [Linkedin](https://www.linkedin.com/in/khuong-mai/)
-- [Portfolio](https://www.khuongmai.dev/)
+- <a href="https://www.linkedin.com/in/khuong-mai">Linkedin</a>
+- <a href="https://www.khuongmai.dev">Portfolio</a>
