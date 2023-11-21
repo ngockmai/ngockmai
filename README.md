@@ -34,3 +34,7 @@ Here are some ideas to get you started:
   <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khuongmai-dev&theme=radical)</a>
   
 </div>
+
+<h3>Other links</h3>
+- [Linkedin](https://www.linkedin.com/in/khuong-mai/)
+- [Portfolio](https://www.khuongmai.dev/)
