@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <h3>Other links</h3>
 <ul>
 	<li><a href="https://www.linkedin.com/in/khuong-mai">Linkedin</a></li>
-	<li><a href="https://www.khuongmai.com">Portfolio</a></li>
+	<li><a href="https://www.ngockmai.com">Portfolio</a></li>
 </ul>
