@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Khuong Mai.</h1>
+<h1>👋 Hi there, I'm Ngoc K Mai.</h1>
 
 <!--
 **khuongmai-dev/khuongmai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently a Business Information Technology (BIT) student in term 5 @ Red River College Polytechnic
-- 💬 I've accomplished CCNA in 2021, IT Infrastructure Certificate at Fanshawe College
+- 🌱 I’m recent graduate from a Business Information Technology (BIT) program @ Red River College Polytechnic
+- 💬 I've accomplished CCNA in 2021, compTIA A+, and IT Infrastructure Certificate at Fanshawe College
 - 📫 How to reach me: khuongngoc1518@gmail.com
 
 <h2 >Skills</h2>
