@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khuongmai-dev&theme=radical)</a>
+  <a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ngockmai&theme=radical)</a>
   
 </div>
 
 <h3>Other links</h3>
 <ul>
 	<li><a href="https://www.linkedin.com/in/khuong-mai">Linkedin</a></li>
-	<li><a href="https://www.khuongmai.dev">Portfolio</a></li>
+	<li><a href="https://www.khuongmai.com">Portfolio</a></li>
 </ul>
