@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Ngoc K Mai.</h1>
+<h1>👋 Hi there, I'm Justin Mai.</h1>
 
 <!--
 **khuongmai-dev/khuongmai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
